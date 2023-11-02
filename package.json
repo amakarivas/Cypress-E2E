@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test:addToCart": "npx cypress run --spec cypress/e2e/test/homepageTest.cy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,6 +14,7 @@
   "author": "amaka",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.3.3"
+    "cypress": "^13.3.3",
+    "cypress-mochawesome-reporter": "^3.6.1"
   }
 }

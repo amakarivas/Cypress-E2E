@@ -1,0 +1,15 @@
+{
+    "login": {
+      "email": "bellahadid@gmail.com",
+      "password": "faikhadra"
+    },
+    
+    "product":{
+      "productName": "MacBook"
+    },
+
+    "message":{
+      "successMessage":"Success: You have added MacBook to your shopping cart!"
+
+  }
+}
