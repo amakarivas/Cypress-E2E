@@ -1,4 +1,4 @@
-import { homePage } from "../../pages/homepage";
+import { homePage } from "../../pages/homePage";
 const homeObj = new homePage();
 import testData from "../../fixtures/testData.json";
 describe("add to cart", () => {
