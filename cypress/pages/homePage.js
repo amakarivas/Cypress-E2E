@@ -1,4 +1,5 @@
 export class homePage {
+  
   weblocators = {
     searchbar: "input[placeholder='Search']",
     click_search: "button[class='btn btn-default btn-lg']",
