@@ -1,4 +1,4 @@
-name: Add to Cart
+name: Single Spec
 on: push
 jobs:
   cypress-run:                                       
