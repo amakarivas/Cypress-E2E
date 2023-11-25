@@ -1,5 +1,7 @@
 const { defineConfig } = require("cypress");
 
+projectId: "htzbsg",
+
 module.exports = defineConfig({
 
   reporter: 'cypress-mochawesome-reporter',
@@ -16,6 +18,7 @@ module.exports = defineConfig({
   env:{
     URL:'https://naveenautomationlabs.com/opencart/index.php?route=account/register'
   },
+  
   
 
 });

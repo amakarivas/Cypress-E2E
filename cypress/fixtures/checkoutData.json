@@ -1,0 +1,22 @@
+{
+    "fName": "Gigi",
+    "lName": "Hadid",
+    "compName": "IMG",
+    "add1": "beverly hills",
+    "add2": "calabasas",
+    "cityAdd": "ty",
+    "post_name": "5679",
+    "count_name": "United States",
+    "r_name": "Alabama",
+    "words": "new flat",
+    "errorMessage":"Warning: Payment method required!",
+
+    "login": {
+        "email": "bellahadid@gmail.com",
+        "password": "faikhadra"
+      }
+
+    
+    
+
+  }
